@@ -1,9 +1,9 @@
 
 # <div align="center">WELCOME TO MY PROFILE</div>
 
-<p align="center">
+<!-- <p align="center">
     <img src="./images/PROFILE-ROUND-CROPPED.jpg" alt="Profile Banner">
-</p>
+</p> -->
 
 
 <div align="center">
@@ -20,13 +20,13 @@ EXPERIENCED IN FULL-STACK DEVELOPMENT, ARTIFICIAL INTELLIGENCE - MACHINE LEARNIN
 
 - Bsc(H) IN COMPUTER SCIENCE
 - MASTERS IN COMPUTER APPLICATION
-- 4+ YEARS OF EXPERIENCE IN FULL STACK DEVELOPMENT
+- 4+ YEARS OF ACADEMIC EXPERIENCE IN FULL STACK DEVELOPMENT
 
 ## INTERNSHIP
 Intern @CodSoft in month of July - BATCH61
 
 ## VISIT MY PORTFOLIO WEBSITE
-[SUVAJIT-KARMAKAR-PORTFOLIO]("https://suvajit-karmakar-portfolio.vercel.app")
+<a href="https://suvajit-karmakar-portfolio.vercel.app"> SUVAJIT-KARMAKAR-PORTFOLIO</a>
 
 ## MY TECHNOLOGY STACK
 
