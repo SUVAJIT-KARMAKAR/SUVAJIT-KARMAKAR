@@ -5,6 +5,12 @@
     <img src="./images/PROFILE-ROUND-CROPPED.jpg" alt="Profile Banner">
 </p> -->
 
+<div>
+<video width="100%" loop>
+  <source src="./videos/VIDEO.mp4" type="video/mp4">
+</video>
+<div>
+
 
 <div align="center">
 <img src="https://img.shields.io/github/followers/SUVAJIT-KARMAKAR?style=social" style="padding:5px">
