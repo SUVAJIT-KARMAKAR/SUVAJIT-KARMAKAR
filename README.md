@@ -26,7 +26,7 @@ EXPERIENCED IN FULL-STACK DEVELOPMENT, ARTIFICIAL INTELLIGENCE - MACHINE LEARNIN
 Intern @CodSoft in month of July - BATCH61
 
 ## VISIT MY PORTFOLIO WEBSITE
-[SUVAJIT-KARMAKAR-PORTFOLIO]('https://suvajit-karmakar-portfolio.vercel.app')
+[SUVAJIT-KARMAKAR-PORTFOLIO]("https://suvajit-karmakar-portfolio.vercel.app")
 
 ## MY TECHNOLOGY STACK
 
@@ -61,7 +61,7 @@ The real-time face recognition project utilizes OpenCV and machine learning algo
 ### [SAY SOCIAL](https://github.com/SUVAJIT-KARMAKAR/SAY-SOCIAL-TELEGRAM-BOT)
 A single yet intriguing bot that will help you in generating your next social-media captions. It uses Google's GeminiAPI / OpenAi API in order to generate the captions and serve to the user.
 
-![SAY SOCIAL](images/SAY-SOCIAL-LOGO.jpeg)
+![SAY SOCIAL](images/SAY-SOCIAL-LOGO.png)
 
 
 
@@ -98,15 +98,9 @@ I AM ALWAYS UP TO SOMETHING INTERESTING AND EXCITING,
 
 
 <div align="center">
-<a href="mailto:ikarmakarsuvajit@gmail.com"> 
-<img style="padding:5px;" width="25px" src="./icons/GMAIL.png"> 
-</a>
-<a href="https://www.linkedin.com/in/suvajit-karmakar-677112220/"> 
-<img style="padding:5px;" width="25px" src="./icons/LINKEDIN.png"> 
-</a>
-<a  href="" > 
-<img style="padding:5px;" width="25px" src="./icons/FIVERR.png"> 
-</a>
+<a href="mailto:ikarmakarsuvajit@gmail.com"><img style="padding:5px;" width="40px" src="./icons/GMAIL.png"></a>
+<a href="https://www.linkedin.com/in/suvajit-karmakar-677112220/"><img style="padding:5px;" width="40px" src="./icons/LINKEDIN.png"></a>
+<a  href="" ><img style="padding:5px;" width="40px" src="./icons/FIVERR.png"></a>
 </div>
 
 
