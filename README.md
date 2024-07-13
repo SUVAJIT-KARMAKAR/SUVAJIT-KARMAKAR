@@ -7,7 +7,7 @@
 
 <div>
 <video width="100%" loop>
-  <source src="./videos/VIDEO.mp4" type="video/mp4">
+  <source src="./videos/VIDEO.gif" type="video/gif">
 </video>
 <div>
 
