@@ -26,22 +26,32 @@ EXPERIENCED IN FULL-STACK DEVELOPMENT, ARTIFICIAL INTELLIGENCE - MACHINE LEARNIN
 Intern @CodSoft in month of July - BATCH61
 
 ## VISIT MY PORTFOLIO WEBSITE
-<a href="https://suvajit-karmakar-portfolio.vercel.app"> SUVAJIT-KARMAKAR-PORTFOLIO</a>
+<a href="https://suvajit-karmakar-portfolio.vercel.app" target="_blank"> SUVAJIT-KARMAKAR-PORTFOLIO</a>
 
 ## MY TECHNOLOGY STACK
 
 <div >
-<img style="padding:5px;" width="40px" src="./icons/c.svg">
-<img style="padding:5px;" width="40px" src="./icons/cpp.svg">
-<img style="padding:5px;" width="40px" src="./icons/html.svg">
-<img style="padding:5px;" width="40px" src="./icons/css.svg">
-<img style="padding:5px;" width="40px" src="./icons/js.svg">
-<img style="padding:5px;" width="40px" src="./icons/ts.svg">
-<img style="padding:5px;" width="40px" src="./icons/node-js.svg">
-<img style="padding:5px;" width="40px" src="./icons/tailwind.svg">
-<img style="padding:5px;" width="40px" src="./icons/react.svg">
-<img style="padding:5px;" width="40px" src="./icons/mongodb.svg">
-<img style="padding:5px;" width="40px" src="./icons/vite.svg">
+<img style="padding:5px;" width="35px" src="./icons/c.svg">
+&nbsp;
+<img style="padding:5px;" width="35px" src="./icons/cpp.svg">
+&nbsp;
+<img style="padding:5px;" width="35px" src="./icons/html.svg">
+&nbsp;
+<img style="padding:5px;" width="35px" src="./icons/css.svg">
+&nbsp;
+<img style="padding:5px;" width="35px" src="./icons/js.svg">
+&nbsp;
+<img style="padding:5px;" width="35px" src="./icons/ts.svg">
+&nbsp;
+<img style="padding:5px;" width="35px" src="./icons/node-js.svg">
+&nbsp;
+<img style="padding:5px;" width="35px" src="./icons/tailwind.svg">
+&nbsp;
+<img style="padding:5px;" width="35px" src="./icons/react.svg">
+&nbsp;
+<img style="padding:5px;" width="35px" src="./icons/mongodb.svg">
+&nbsp;
+<img style="padding:5px;" width="35px" src="./icons/vite.svg">
 </div>
 
 ## PROJECTS
