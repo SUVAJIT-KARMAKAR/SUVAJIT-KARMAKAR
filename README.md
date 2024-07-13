@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/github/stars/SUVAJIT-KARMAKAR?style=social" style="padding:5px">
 </div>
 
-<div align="center">HELLO WORLD! WELCOME TO MY GITHUB PROFILE. <br>I'M <u><b>SUVAJIT KARMAKAR</b></u>. JUST SCROLL THROUGH TO FIND OUT MY LATEST PROJECTS AND CONTRIBUTIONS</div>
+<div align="center">HELLO WORLD! WELCOME TO MY GITHUB PROFILE. <br>I'M <u><b>SUVAJIT KARMAKAR</b></u>.<br> JUST SCROLL THROUGH TO FIND OUT MY LATEST PROJECTS AND CONTRIBUTIONS</div>
 
 ## ABOUT ME
 
@@ -31,17 +31,17 @@ Intern @CodSoft in month of July - BATCH61
 ## MY TECHNOLOGY STACK
 
 <div >
-<img style="padding:5px;" width="25px" src="./icons/c.svg">
-<img style="padding:5px;" width="25px" src="./icons/cpp.svg">
-<img style="padding:5px;" width="25px" src="./icons/html.svg">
-<img style="padding:5px;" width="25px" src="./icons/css.svg">
-<img style="padding:5px;" width="25px" src="./icons/js.svg">
-<img style="padding:5px;" width="25px" src="./icons/ts.svg">
-<img style="padding:5px;" width="25px" src="./icons/node-js.svg">
-<img style="padding:5px;" width="25px" src="./icons/tailwind.svg">
-<img style="padding:5px;" width="25px" src="./icons/react.svg">
-<img style="padding:5px;" width="25px" src="./icons/mongodb.svg">
-<img style="padding:5px;" width="25px" src="./icons/vite.svg">
+<img style="padding:5px;" width="40px" src="./icons/c.svg">
+<img style="padding:5px;" width="40px" src="./icons/cpp.svg">
+<img style="padding:5px;" width="40px" src="./icons/html.svg">
+<img style="padding:5px;" width="40px" src="./icons/css.svg">
+<img style="padding:5px;" width="40px" src="./icons/js.svg">
+<img style="padding:5px;" width="40px" src="./icons/ts.svg">
+<img style="padding:5px;" width="40px" src="./icons/node-js.svg">
+<img style="padding:5px;" width="40px" src="./icons/tailwind.svg">
+<img style="padding:5px;" width="40px" src="./icons/react.svg">
+<img style="padding:5px;" width="40px" src="./icons/mongodb.svg">
+<img style="padding:5px;" width="40px" src="./icons/vite.svg">
 </div>
 
 ## PROJECTS
