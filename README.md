@@ -5,11 +5,11 @@
     <img src="./images/PROFILE-ROUND-CROPPED.jpg" alt="Profile Banner">
 </p> -->
 
-<div>
+<!-- <div>
 <video width="100%" loop>
   <source src="./videos/VIDEO.gif" type="video/gif">
 </video>
-<div>
+<div> -->
 
 
 <div align="center">
@@ -100,6 +100,12 @@ A simple web-calculator for mobile devices, fully-responsive with proper functio
 A simple end-to-end note application for taking your notes in one go, save it, edit it and make yourself productive than ever before.
 
 ![NOTEFY](images/NOTEFY-LOGO.jpeg)
+
+
+### [easyFIND.prog](https://github.com/SUVAJIT-KARMAKAR/CODSOFT-LEVEL-1-TASK-2)
+easyFIND is a comprehensive website designed to assist programmers by offering a collection of programming language PDFs and shorthand guides. It serves as a quick reference for revision, helping users efficiently resolve bugs and syntax-related issues. Whether you're a beginner or an experienced developer, easyFIND is a valuable resource for enhancing your coding skills and streamlining your workflow.
+
+![easyFIND.prog](images/easyFIND-logo.png)
 
 
 
