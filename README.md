@@ -118,13 +118,13 @@ I AM ALWAYS UP TO SOMETHING INTERESTING AND EXCITING,
 
 <div align="center">
 <a href="mailto:ikarmakarsuvajit@gmail.com"> 
-<img style="padding:10px;" width="35px" src="./icons/GMAIL.png"> 
+<img style="padding:10px;" width="40px" src="./icons/GMAIL.png"> 
 </a>
 <a href="https://www.linkedin.com/in/suvajit-karmakar-677112220/"> 
-<img style="padding:10px;" width="35px" src="./icons/LINKEDIN.png"> 
+<img style="padding:10px;" width="40px" src="./icons/LINKEDIN.png"> 
 </a>
 <a  href=""> 
-<img style="padding:10px;" width="35px" src="./icons/FIVERR.png"> 
+<img style="padding:10px;" width="40px" src="./icons/FIVERR.png"> 
 </a>
 </div>
 
@@ -133,7 +133,7 @@ I AM ALWAYS UP TO SOMETHING INTERESTING AND EXCITING,
 ## <div  align="center"> &lt;THANK YOU SO MUCH/&gt; </div>
 
 <div align="center">
-THANK YOU FOR VISITING MY GITHUB PROFILE ! <br>I HOPE YOU FOUND SOMETHING INTERESTING AND AND USEFUL.<br><u>MAKE SURE YOU FORK IT.</u> <br> PLEASE DO HIT THE STAR AND HAVE A GREAT DAY
+THANK YOU FOR VISITING MY GITHUB PROFILE ! <br>I HOPE YOU FOUND SOMETHING INTERESTING AND USEFUL.<br><u>MAKE SURE YOU FORK IT.</u> <br> PLEASE DO HIT THE STAR AND HAVE A GREAT DAY
 ✨🌟</div>
 
 
