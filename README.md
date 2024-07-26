@@ -21,7 +21,7 @@ EXPERIENCED IN FULL-STACK DEVELOPMENT, ARTIFICIAL INTELLIGENCE - MACHINE LEARNIN
 
 - Bsc(H) IN COMPUTER SCIENCE
 - MASTERS IN COMPUTER APPLICATION
-- 4+ YEARS OF EXPERIENCE IN FULL STACK DEVELOPMENT
+- 4+ YEARS OF ACADEMIC EXPERIENCE IN FULL STACK DEVELOPMENT
 
 ## INTERNSHIP
 Intern @CodSoft in month of July - BATCH61
@@ -118,13 +118,13 @@ I AM ALWAYS UP TO SOMETHING INTERESTING AND EXCITING,
 
 <div align="center">
 <a href="mailto:ikarmakarsuvajit@gmail.com"> 
-<img style="padding:5px;" width="30px" src="./icons/GMAIL.png"> 
+<img style="padding:10px;" width="35px" src="./icons/GMAIL.png"> 
 </a>
 <a href="https://www.linkedin.com/in/suvajit-karmakar-677112220/"> 
-<img style="padding:5px;" width="30px" src="./icons/LINKEDIN.png"> 
+<img style="padding:10px;" width="35px" src="./icons/LINKEDIN.png"> 
 </a>
-<a  href="" > 
-<img style="padding:5px;" width="30px" src="./icons/FIVERR.png"> 
+<a  href=""> 
+<img style="padding:10px;" width="35px" src="./icons/FIVERR.png"> 
 </a>
 </div>
 
