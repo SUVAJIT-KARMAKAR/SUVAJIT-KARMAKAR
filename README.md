@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header"/>
 </p>
 
-# <div  style="color:#DEAC80;text-align:center;"> &lt;WELCOME TO MY PROFILE/&gt; </div>
+# <div align="center" style="color:#DEAC80;"> &lt;WELCOME TO MY PROFILE/&gt; </div>
 
 
 
@@ -32,29 +32,29 @@ Intern @CodSoft in month of July - BATCH61
 ## MY TECHNOLOGY STACK
 
 <div align="center">
-<img style="padding:5px;" width="25px" src="./icons/c.svg">
-<img style="padding:5px;" width="25px" src="./icons/cpp.svg">
-<img style="padding:5px;" width="25px" src="./icons/html.svg">
-<img style="padding:5px;" width="25px" src="./icons/css.svg">
-<img style="padding:5px;" width="25px" src="./icons/js.svg">
-<img style="padding:5px;" width="25px" src="./icons/ts.svg">
-<img style="padding:5px;" width="25px" src="./icons/node-js.svg">
-<img style="padding:5px;" width="25px" src="./icons/tailwind.svg">
-<img style="padding:5px;" width="25px" src="./icons/react.svg">
-<img style="padding:5px;" width="25px" src="./icons/mongodb.svg">
-<img style="padding:5px;" width="25px" src="./icons/GIT.svg">
+<img style="padding:5px;" width="30px" src="./icons/c.svg">
+<img style="padding:5px;" width="30px" src="./icons/cpp.svg">
+<img style="padding:5px;" width="30px" src="./icons/html.svg">
+<img style="padding:5px;" width="30px" src="./icons/css.svg">
+<img style="padding:5px;" width="30px" src="./icons/js.svg">
+<img style="padding:5px;" width="30px" src="./icons/ts.svg">
+<img style="padding:5px;" width="30px" src="./icons/node-js.svg">
+<img style="padding:5px;" width="30px" src="./icons/tailwind.svg">
+<img style="padding:5px;" width="30px" src="./icons/react.svg">
+<img style="padding:5px;" width="30px" src="./icons/mongodb.svg">
+<img style="padding:5px;" width="30px" src="./icons/GIT.svg">
 
-<img style="padding:5px;" width="25px" src="./icons/AWS.svg">
-<img style="padding:5px;" width="25px" src="./icons/DJANGO.svg">
-<img style="padding:5px;" width="25px" src="./icons/KOTLIN.svg">
-<img style="padding:5px;" width="25px" src="./icons/NEXTJS.svg">
-<img style="padding:5px;" width="25px" src="./icons/NUMPY.svg">
-<img style="padding:5px;" width="25px" src="./icons/OPENCV.svg">
-<img style="padding:5px;" width="25px" src="./icons/SQL.svg">
-<img style="padding:5px;" width="25px" src="./icons/RUST.svg">
-<img style="padding:5px;" width="25px" src="./icons/PANDAS.svg">
-<img style="padding:5px;" width="25px" src="./icons/POSTGRESSQL.svg">
-<img style="padding:5px;" width="25px" src="./icons/DORKER.svg">
+<img style="padding:5px;" width="30px" src="./icons/AWS.svg">
+<img style="padding:5px;" width="30px" src="./icons/DJANGO.svg">
+<img style="padding:5px;" width="30px" src="./icons/KOTLIN.svg">
+<img style="padding:5px;" width="30px" src="./icons/NEXTJS.svg">
+<img style="padding:5px;" width="30px" src="./icons/NUMPY.svg">
+<img style="padding:5px;" width="30px" src="./icons/OPENCV.svg">
+<img style="padding:5px;" width="30px" src="./icons/SQL.svg">
+<img style="padding:5px;" width="30px" src="./icons/RUST.svg">
+<img style="padding:5px;" width="30px" src="./icons/PANDAS.svg">
+<img style="padding:5px;" width="30px" src="./icons/POSTGRESSQL.svg">
+<img style="padding:5px;" width="30px" src="./icons/DORKER.svg">
 </div>
 
 ## PROJECTS
@@ -110,7 +110,7 @@ easyFIND is a comprehensive website designed to assist programmers by offering a
 
 > REST OF THE REPOSITORIES ARE YOURS TO EXPLORE !
 
-## <div  style="color:#DEAC80;text-align:center;"> &lt;LET'S WORK TOGETHER/&gt; </div>
+## <div  align="center"  style="color:#DEAC80;"> &lt;LET'S WORK TOGETHER/&gt; </div>
 
 I AM ALWAYS UP TO SOMETHING INTERESTING AND EXCITING, 
 <u>JUST CLICK THE ICONS & LET'S COLLABORATE</u>
@@ -130,7 +130,7 @@ I AM ALWAYS UP TO SOMETHING INTERESTING AND EXCITING,
 
 
 
-## <div  style="color:#DEAC80;text-align:center;"> &lt;THANK YOU SO MUCH/&gt; </div>
+## <div  align="center"  style="color:#DEAC80;"> &lt;THANK YOU SO MUCH/&gt; </div>
 
 <div align="center">
 THANK YOU FOR VISITING MY GITHUB PROFILE ! <br>I HOPE YOU FOUND SOMETHING INTERESTING AND AND USEFUL.<br><u>MAKE SURE YOU FORK IT.</u> <br> PLEASE DO HIT THE STAR AND HAVE A GREAT DAY
