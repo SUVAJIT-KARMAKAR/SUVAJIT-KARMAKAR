@@ -119,13 +119,13 @@ I AM ALWAYS UP TO SOMETHING INTERESTING AND EXCITING,
 
 <div align="center">
   <a href="mailto:ikarmakarsuvajit@gmail.com"> 
-  <img style="padding:10px;" width="40px" src="./icons/GMAIL.png"> 
+  <img width="40px" src="./icons/GMAIL.png"> 
   </a>
   <a href="https://www.linkedin.com/in/suvajit-karmakar-677112220/"> 
-  <img style="padding:10px;" width="40px" src="./icons/LINKEDIN.png"> 
+  <img width="40px" src="./icons/LINKEDIN.png"> 
   </a>
   <a  href=""> 
-  <img style="padding:10px;" width="40px" src="./icons/FIVERR.png"> 
+  <img width="40px" src="./icons/FIVERR.png"> 
   </a>
 </div>
 
