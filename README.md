@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header"/>
 </p>
 
-# <div align="center" style="color:#DEAC80;"> &lt;WELCOME TO MY PROFILE/&gt; </div>
+# <div align="center">&lt;WELCOME TO MY PROFILE/&gt;</div>
 
 
 
@@ -74,7 +74,7 @@ The real-time face recognition project utilizes OpenCV and machine learning algo
 ### [SAY SOCIAL](https://github.com/SUVAJIT-KARMAKAR/SAY-SOCIAL-TELEGRAM-BOT)
 A single yet intriguing bot that will help you in generating your next social-media captions. It uses Google's GeminiAPI / OpenAi API in order to generate the captions and serve to the user.
 
-![SAY SOCIAL](images/SAY-SOCIAL-LOGO.jpeg)
+![SAY SOCIAL](images/SAY-SOCIAL-LOGO.png)
 
 
 
@@ -110,7 +110,7 @@ easyFIND is a comprehensive website designed to assist programmers by offering a
 
 > REST OF THE REPOSITORIES ARE YOURS TO EXPLORE !
 
-## <div  align="center"  style="color:#DEAC80;"> &lt;LET'S WORK TOGETHER/&gt; </div>
+## <div  align="center"> &lt;LET'S WORK TOGETHER/&gt; </div>
 
 I AM ALWAYS UP TO SOMETHING INTERESTING AND EXCITING, 
 <u>JUST CLICK THE ICONS & LET'S COLLABORATE</u>
@@ -118,19 +118,19 @@ I AM ALWAYS UP TO SOMETHING INTERESTING AND EXCITING,
 
 <div align="center">
 <a href="mailto:ikarmakarsuvajit@gmail.com"> 
-<img style="padding:5px;" width="25px" src="./icons/GMAIL.png"> 
+<img style="padding:5px;" width="30px" src="./icons/GMAIL.png"> 
 </a>
 <a href="https://www.linkedin.com/in/suvajit-karmakar-677112220/"> 
-<img style="padding:5px;" width="25px" src="./icons/LINKEDIN.png"> 
+<img style="padding:5px;" width="30px" src="./icons/LINKEDIN.png"> 
 </a>
 <a  href="" > 
-<img style="padding:5px;" width="25px" src="./icons/FIVERR.png"> 
+<img style="padding:5px;" width="30px" src="./icons/FIVERR.png"> 
 </a>
 </div>
 
 
 
-## <div  align="center"  style="color:#DEAC80;"> &lt;THANK YOU SO MUCH/&gt; </div>
+## <div  align="center"> &lt;THANK YOU SO MUCH/&gt; </div>
 
 <div align="center">
 THANK YOU FOR VISITING MY GITHUB PROFILE ! <br>I HOPE YOU FOUND SOMETHING INTERESTING AND AND USEFUL.<br><u>MAKE SURE YOU FORK IT.</u> <br> PLEASE DO HIT THE STAR AND HAVE A GREAT DAY
