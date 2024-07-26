@@ -32,29 +32,29 @@ Intern @CodSoft in month of July - BATCH61
 ## MY TECHNOLOGY STACK
 
 <div align="center">
-<img style="padding:5px;" width="30px" src="./icons/c.svg">
-<img style="padding:5px;" width="30px" src="./icons/cpp.svg">
-<img style="padding:5px;" width="30px" src="./icons/html.svg">
-<img style="padding:5px;" width="30px" src="./icons/css.svg">
-<img style="padding:5px;" width="30px" src="./icons/js.svg">
-<img style="padding:5px;" width="30px" src="./icons/ts.svg">
-<img style="padding:5px;" width="30px" src="./icons/node-js.svg">
-<img style="padding:5px;" width="30px" src="./icons/tailwind.svg">
-<img style="padding:5px;" width="30px" src="./icons/react.svg">
-<img style="padding:5px;" width="30px" src="./icons/mongodb.svg">
-<img style="padding:5px;" width="30px" src="./icons/GIT.svg">
+<img style="padding:6px;" width="30px" src="./icons/c.svg">
+<img style="padding:6px;" width="30px" src="./icons/cpp.svg">
+<img style="padding:6px;" width="30px" src="./icons/html.svg">
+<img style="padding:6px;" width="30px" src="./icons/css.svg">
+<img style="padding:6px;" width="30px" src="./icons/js.svg">
+<img style="padding:6px;" width="30px" src="./icons/ts.svg">
+<img style="padding:6px;" width="30px" src="./icons/node-js.svg">
+<img style="padding:6px;" width="30px" src="./icons/tailwind.svg">
+<img style="padding:6px;" width="30px" src="./icons/react.svg">
+<img style="padding:6px;" width="30px" src="./icons/mongodb.svg">
+<img style="padding:6px;" width="30px" src="./icons/GIT.svg">
 
-<img style="padding:5px;" width="30px" src="./icons/AWS.svg">
-<img style="padding:5px;" width="30px" src="./icons/DJANGO.svg">
-<img style="padding:5px;" width="30px" src="./icons/KOTLIN.svg">
-<img style="padding:5px;" width="30px" src="./icons/NEXTJS.svg">
-<img style="padding:5px;" width="30px" src="./icons/NUMPY.svg">
-<img style="padding:5px;" width="30px" src="./icons/OPENCV.svg">
-<img style="padding:5px;" width="30px" src="./icons/SQL.svg">
-<img style="padding:5px;" width="30px" src="./icons/RUST.svg">
-<img style="padding:5px;" width="30px" src="./icons/PANDAS.svg">
-<img style="padding:5px;" width="30px" src="./icons/POSTGRESSQL.svg">
-<img style="padding:5px;" width="30px" src="./icons/DORKER.svg">
+<img style="padding:6px;" width="30px" src="./icons/AWS.svg">
+<img style="padding:6px;" width="30px" src="./icons/DJANGO.svg">
+<img style="padding:6px;" width="30px" src="./icons/KOTLIN.svg">
+<img style="padding:6px;" width="30px" src="./icons/NEXTJS.svg">
+<img style="padding:6px;" width="30px" src="./icons/NUMPY.svg">
+<img style="padding:6px;" width="30px" src="./icons/OPENCV.svg">
+<img style="padding:6px;" width="30px" src="./icons/SQL.svg">
+<img style="padding:6px;" width="30px" src="./icons/RUST.svg">
+<img style="padding:6px;" width="30px" src="./icons/PANDAS.svg">
+<img style="padding:6px;" width="30px" src="./icons/POSTGRESSQL.svg">
+<img style="padding:6px;" width="30px" src="./icons/DORKER.svg">
 </div>
 
 ## PROJECTS
