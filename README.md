@@ -26,8 +26,9 @@ EXPERIENCED IN FULL-STACK DEVELOPMENT, ARTIFICIAL INTELLIGENCE - MACHINE LEARNIN
 ## INTERNSHIP
 Intern @CodSoft in month of July - BATCH61
 
+
 ## VISIT MY PORTFOLIO WEBSITE
-[SUVAJIT-KARMAKAR-PORTFOLIO]('https://suvajit-karmakar-portfolio.vercel.app')
+<a href="https://suvajit-karmakar-portfolio.vercel.app"> SUVAJIT-KARMAKAR-PORTFOLIO</a>
 
 ## MY TECHNOLOGY STACK
 
