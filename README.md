@@ -120,10 +120,10 @@ I AM ALWAYS UP TO SOMETHING INTERESTING AND EXCITING,
 <div align="center">
   <a href="mailto:ikarmakarsuvajit@gmail.com"> 
   <img width="40px" src="./icons/GMAIL.png"> 
-  </a>
+  </a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/suvajit-karmakar-677112220/"> 
   <img width="40px" src="./icons/LINKEDIN.png"> 
-  </a>
+  </a> &nbsp; &nbsp;
   <a  href=""> 
   <img width="40px" src="./icons/FIVERR.png"> 
   </a>
