@@ -116,8 +116,9 @@ easyFIND is a comprehensive website designed to assist programmers by offering a
 I AM ALWAYS UP TO SOMETHING INTERESTING AND EXCITING, 
 <u>JUST CLICK THE ICONS & LET'S COLLABORATE</u>
 
-
+<br>
 <div align="center">
+
   <a href="mailto:ikarmakarsuvajit@gmail.com"> 
     <img width="40px" src="./icons/GMAIL.png"> 
   </a>
@@ -129,7 +130,9 @@ I AM ALWAYS UP TO SOMETHING INTERESTING AND EXCITING,
   <a  href=""> 
     <img width="40px" src="./icons/FIVERR.png"> 
   </a>
+
 </div>
+<br>
 
 
 
