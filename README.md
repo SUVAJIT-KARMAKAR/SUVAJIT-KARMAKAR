@@ -1,15 +1,10 @@
 
-# <div align="center">WELCOME TO MY PROFILE</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header"/>
+</p>
 
-<!-- <p align="center">
-    <img src="./images/PROFILE-ROUND-CROPPED.jpg" alt="Profile Banner">
-</p> -->
+# <div  style="color:#DEAC80;text-align:center;"> &lt;WELCOME TO MY PROFILE/&gt; </div>
 
-<!-- <div>
-<video width="100%" loop>
-  <source src="./videos/VIDEO.gif" type="video/gif">
-</video>
-<div> -->
 
 
 <div align="center">
@@ -17,7 +12,7 @@
 <img src="https://img.shields.io/github/stars/SUVAJIT-KARMAKAR?style=social" style="padding:5px">
 </div>
 
-<div align="center">HELLO WORLD! WELCOME TO MY GITHUB PROFILE. <br>I'M <u><b>SUVAJIT KARMAKAR</b></u>.<br> JUST SCROLL THROUGH TO FIND OUT MY LATEST PROJECTS AND CONTRIBUTIONS</div>
+<div align="center">HELLO WORLD! WELCOME TO MY GITHUB PROFILE. <br>I'M <u><b>SUVAJIT KARMAKAR</b></u>. JUST SCROLL THROUGH TO FIND OUT MY LATEST PROJECTS AND CONTRIBUTIONS</div>
 
 ## ABOUT ME
 
@@ -26,38 +21,40 @@ EXPERIENCED IN FULL-STACK DEVELOPMENT, ARTIFICIAL INTELLIGENCE - MACHINE LEARNIN
 
 - Bsc(H) IN COMPUTER SCIENCE
 - MASTERS IN COMPUTER APPLICATION
-- 4+ YEARS OF ACADEMIC EXPERIENCE IN FULL STACK DEVELOPMENT
+- 4+ YEARS OF EXPERIENCE IN FULL STACK DEVELOPMENT
 
 ## INTERNSHIP
 Intern @CodSoft in month of July - BATCH61
 
 ## VISIT MY PORTFOLIO WEBSITE
-<a href="https://suvajit-karmakar-portfolio.vercel.app" target="_blank"> SUVAJIT-KARMAKAR-PORTFOLIO</a>
+[SUVAJIT-KARMAKAR-PORTFOLIO]('https://suvajit-karmakar-portfolio.vercel.app')
 
 ## MY TECHNOLOGY STACK
 
-<div >
-<img style="padding:5px;" width="35px" src="./icons/c.svg">
-&nbsp;
-<img style="padding:5px;" width="35px" src="./icons/cpp.svg">
-&nbsp;
-<img style="padding:5px;" width="35px" src="./icons/html.svg">
-&nbsp;
-<img style="padding:5px;" width="35px" src="./icons/css.svg">
-&nbsp;
-<img style="padding:5px;" width="35px" src="./icons/js.svg">
-&nbsp;
-<img style="padding:5px;" width="35px" src="./icons/ts.svg">
-&nbsp;
-<img style="padding:5px;" width="35px" src="./icons/node-js.svg">
-&nbsp;
-<img style="padding:5px;" width="35px" src="./icons/tailwind.svg">
-&nbsp;
-<img style="padding:5px;" width="35px" src="./icons/react.svg">
-&nbsp;
-<img style="padding:5px;" width="35px" src="./icons/mongodb.svg">
-&nbsp;
-<img style="padding:5px;" width="35px" src="./icons/vite.svg">
+<div align="center">
+<img style="padding:5px;" width="25px" src="./icons/c.svg">
+<img style="padding:5px;" width="25px" src="./icons/cpp.svg">
+<img style="padding:5px;" width="25px" src="./icons/html.svg">
+<img style="padding:5px;" width="25px" src="./icons/css.svg">
+<img style="padding:5px;" width="25px" src="./icons/js.svg">
+<img style="padding:5px;" width="25px" src="./icons/ts.svg">
+<img style="padding:5px;" width="25px" src="./icons/node-js.svg">
+<img style="padding:5px;" width="25px" src="./icons/tailwind.svg">
+<img style="padding:5px;" width="25px" src="./icons/react.svg">
+<img style="padding:5px;" width="25px" src="./icons/mongodb.svg">
+<img style="padding:5px;" width="25px" src="./icons/GIT.svg">
+
+<img style="padding:5px;" width="25px" src="./icons/AWS.svg">
+<img style="padding:5px;" width="25px" src="./icons/DJANGO.svg">
+<img style="padding:5px;" width="25px" src="./icons/KOTLIN.svg">
+<img style="padding:5px;" width="25px" src="./icons/NEXTJS.svg">
+<img style="padding:5px;" width="25px" src="./icons/NUMPY.svg">
+<img style="padding:5px;" width="25px" src="./icons/OPENCV.svg">
+<img style="padding:5px;" width="25px" src="./icons/SQL.svg">
+<img style="padding:5px;" width="25px" src="./icons/RUST.svg">
+<img style="padding:5px;" width="25px" src="./icons/PANDAS.svg">
+<img style="padding:5px;" width="25px" src="./icons/POSTGRESSQL.svg">
+<img style="padding:5px;" width="25px" src="./icons/DORKER.svg">
 </div>
 
 ## PROJECTS
@@ -77,7 +74,7 @@ The real-time face recognition project utilizes OpenCV and machine learning algo
 ### [SAY SOCIAL](https://github.com/SUVAJIT-KARMAKAR/SAY-SOCIAL-TELEGRAM-BOT)
 A single yet intriguing bot that will help you in generating your next social-media captions. It uses Google's GeminiAPI / OpenAi API in order to generate the captions and serve to the user.
 
-![SAY SOCIAL](images/SAY-SOCIAL-LOGO.png)
+![SAY SOCIAL](images/SAY-SOCIAL-LOGO.jpeg)
 
 
 
@@ -102,6 +99,7 @@ A simple end-to-end note application for taking your notes in one go, save it, e
 ![NOTEFY](images/NOTEFY-LOGO.jpeg)
 
 
+
 ### [easyFIND.prog](https://github.com/SUVAJIT-KARMAKAR/CODSOFT-LEVEL-1-TASK-2)
 easyFIND is a comprehensive website designed to assist programmers by offering a collection of programming language PDFs and shorthand guides. It serves as a quick reference for revision, helping users efficiently resolve bugs and syntax-related issues. Whether you're a beginner or an experienced developer, easyFIND is a valuable resource for enhancing your coding skills and streamlining your workflow.
 
@@ -110,25 +108,45 @@ easyFIND is a comprehensive website designed to assist programmers by offering a
 
 
 
-
 > REST OF THE REPOSITORIES ARE YOURS TO EXPLORE !
 
-## <div align="center"> LET'S WORK TOGETHER </div>
+## <div  style="color:#DEAC80;text-align:center;"> &lt;LET'S WORK TOGETHER/&gt; </div>
 
 I AM ALWAYS UP TO SOMETHING INTERESTING AND EXCITING, 
 <u>JUST CLICK THE ICONS & LET'S COLLABORATE</u>
 
 
 <div align="center">
-<a href="mailto:ikarmakarsuvajit@gmail.com"><img style="padding:5px;" width="40px" src="./icons/GMAIL.png"></a>
-<a href="https://www.linkedin.com/in/suvajit-karmakar-677112220/"><img style="padding:5px;" width="40px" src="./icons/LINKEDIN.png"></a>
-<a  href="" ><img style="padding:5px;" width="40px" src="./icons/FIVERR.png"></a>
+<a href="mailto:ikarmakarsuvajit@gmail.com"> 
+<img style="padding:5px;" width="25px" src="./icons/GMAIL.png"> 
+</a>
+<a href="https://www.linkedin.com/in/suvajit-karmakar-677112220/"> 
+<img style="padding:5px;" width="25px" src="./icons/LINKEDIN.png"> 
+</a>
+<a  href="" > 
+<img style="padding:5px;" width="25px" src="./icons/FIVERR.png"> 
+</a>
 </div>
 
 
 
-## <div align="center"> THANK YOU SO MUCH </div>
+## <div  style="color:#DEAC80;text-align:center;"> &lt;THANK YOU SO MUCH/&gt; </div>
 
 <div align="center">
 THANK YOU FOR VISITING MY GITHUB PROFILE ! <br>I HOPE YOU FOUND SOMETHING INTERESTING AND AND USEFUL.<br><u>MAKE SURE YOU FORK IT.</u> <br> PLEASE DO HIT THE STAR AND HAVE A GREAT DAY
 ✨🌟</div>
+
+
+<hr>
+<br>
+
+<div align="center">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=SUVAJITKARMAKAR&label=VISITED&color=3&icon=2&pretty=true" />
+</a>
+</div>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
