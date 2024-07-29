@@ -33,7 +33,6 @@ Intern @CodSoft in month of July - BATCH61
 ## MY TECHNOLOGY STACK
 
 <div align="center">
-<img style="padding:6px;" width="30px" src="./icons/c.svg">
 <img style="padding:6px;" width="30px" src="./icons/cpp.svg">
 <img style="padding:6px;" width="30px" src="./icons/html.svg">
 <img style="padding:6px;" width="30px" src="./icons/css.svg">
@@ -44,8 +43,9 @@ Intern @CodSoft in month of July - BATCH61
 <img style="padding:6px;" width="30px" src="./icons/react.svg">
 <img style="padding:6px;" width="30px" src="./icons/mongodb.svg">
 <img style="padding:6px;" width="30px" src="./icons/GIT.svg">
-
 <img style="padding:6px;" width="30px" src="./icons/AWS.svg">
+
+<img style="padding:6px;" width="30px" src="./icons/PYTHON.svg">
 <img style="padding:6px;" width="30px" src="./icons/DJANGO.svg">
 <img style="padding:6px;" width="30px" src="./icons/KOTLIN.svg">
 <img style="padding:6px;" width="30px" src="./icons/NEXTJS.svg">
