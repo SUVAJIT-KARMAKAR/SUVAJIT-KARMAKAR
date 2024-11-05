@@ -39,11 +39,11 @@ Software Engineer Intern @CodeWalnut
 <img style="padding:6px;" width="30px" src="./icons/js.svg">
 <img style="padding:6px;" width="30px" src="./icons/ts.svg">
 <img style="padding:6px;" width="30px" src="./icons/node-js.svg">
+<img style="padding:6px;" width="30px" src="./icons/expressjs.svg">
 <img style="padding:6px;" width="30px" src="./icons/tailwind.svg">
 <img style="padding:6px;" width="30px" src="./icons/react.svg">
 <img style="padding:6px;" width="30px" src="./icons/mongodb.svg">
 <img style="padding:6px;" width="30px" src="./icons/GIT.svg">
-<img style="padding:6px;" width="30px" src="./icons/AWS.svg">
 
 <img style="padding:6px;" width="30px" src="./icons/PYTHON.svg">
 <img style="padding:6px;" width="30px" src="./icons/DJANGO.svg">
