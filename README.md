@@ -24,7 +24,7 @@ EXPERIENCED IN FULL-STACK DEVELOPMENT, ARTIFICIAL INTELLIGENCE - MACHINE LEARNIN
 - 4+ YEARS OF ACADEMIC EXPERIENCE IN FULL STACK DEVELOPMENT
 
 ## INTERNSHIP
-Intern @CodSoft in month of July - BATCH61
+Software Engineer Intern @CodeWalnut
 
 
 ## VISIT MY PORTFOLIO WEBSITE
@@ -76,37 +76,6 @@ The real-time face recognition project utilizes OpenCV and machine learning algo
 A single yet intriguing bot that will help you in generating your next social-media captions. It uses Google's GeminiAPI / OpenAi API in order to generate the captions and serve to the user.
 
 ![SAY SOCIAL](images/SAY-SOCIAL-LOGO.png)
-
-
-
-
-### [GUESSIT](https://github.com/SUVAJIT-KARMAKAR/GUESS-IT-CLI)
-A simple CLI (Command-Line-Interface) application using Rust Programming language that facilitates a simple guessing game.
-
-![GUESSIT](images/GUESSIT.png)
-
-
-
-### [CALC](https://github.com/SUVAJIT-KARMAKAR/CALC)
-A simple web-calculator for mobile devices, fully-responsive with proper functionalities and eye-catching digit color separation.
-
-![CALC](images/CALC-LOGO.png)
-
-
-
-### [NOTEFY]()
-A simple end-to-end note application for taking your notes in one go, save it, edit it and make yourself productive than ever before.
-
-![NOTEFY](images/NOTEFY-LOGO.jpeg)
-
-
-
-### [easyFIND.prog](https://github.com/SUVAJIT-KARMAKAR/CODSOFT-LEVEL-1-TASK-2)
-easyFIND is a comprehensive website designed to assist programmers by offering a collection of programming language PDFs and shorthand guides. It serves as a quick reference for revision, helping users efficiently resolve bugs and syntax-related issues. Whether you're a beginner or an experienced developer, easyFIND is a valuable resource for enhancing your coding skills and streamlining your workflow.
-
-![easyFIND.prog](images/easyFIND-logo.png)
-
-
 
 
 > REST OF THE REPOSITORIES ARE YOURS TO EXPLORE !
