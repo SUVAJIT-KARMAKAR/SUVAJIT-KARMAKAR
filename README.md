@@ -26,7 +26,9 @@ Software Engineer Intern `@CodeWalnut`
 
 ## VISIT MY PORTFOLIO WEBSITE
 
-<a href="https://suvajit-karmakar-portfolio.vercel.app"> `SUVAJIT-KARMAKAR-PORTFOLIO` </a>
+<div align="left">
+<a href="https://suvajit-karmakar.vercel.app"> <img width="40px" src="./logo/LOGO.png"> Suvajit Karmakar </a>
+</div>
 
 ## MY TECHNOLOGY STACK
 
@@ -48,7 +50,6 @@ Software Engineer Intern `@CodeWalnut`
     <td align="center"><img src="./icons/docker.svg" width="40px"><br></td>
   </tr>
 </table>
-
 
 ## PROJECTS
 
