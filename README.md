@@ -32,9 +32,6 @@ Software Engineer Intern `@CodeWalnut`
 
 <table align="center" border="1">
   <tr>
-    <td align="center"><img src="./icons/cpp.svg" width="44px"><br></td>
-    <td align="center"><img src="./icons/html.svg" width="40px"><br></td>
-    <td align="center"><img src="./icons/css.svg" width="40px"><br></td>
     <td align="center"><img src="./icons/javascript.svg" width="40px"><br></td>
     <td align="center"><img src="./icons/typescript.svg" width="40px"><br></td>
     <td align="center"><img src="./icons/react.svg" width="40px"><br></td>
@@ -42,11 +39,13 @@ Software Engineer Intern `@CodeWalnut`
     <td align="center"><img src="./icons/expressjs.svg" width="40px"><br></td>
     <td align="center"><img src="./icons/springboot.svg" width="40px"><br></td>
     <td align="center"><img src="./icons/tailwind.svg" width="40px"><br></td>
-    <td align="center"><img src="./icons/python.svg" width="40px"><br></td>
+    <td align="center"><img src="./icons/PYTHON.svg" width="40px"><br></td>
     <td align="center"><img src="./icons/fastapi.svg" width="40px"><br></td>
     <td align="center"><img src="./icons/NEXTJS.svg" width="40px"><br></td>
-    <td align="center"><img src="./icons/SQL.svg" width="40px"><br></td>
+    <td align="center"><img src="./icons/psql.svg" width="40px"><br></td>
     <td align="center"><img src="./icons/mongodb.svg" width="40px"><br></td>
+    <td align="center"><img src="./icons/GIT.svg" width="40px"><br></td>
+    <td align="center"><img src="./icons/docker.svg" width="40px"><br></td>
   </tr>
 </table>
 
