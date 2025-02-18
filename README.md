@@ -38,7 +38,7 @@ Software Engineer Intern `@CodeWalnut`
 <img style="padding:6px;" width="30px" src="./icons/typescript.svg">
 <img style="padding:6px;" width="30px" src="./icons/react.svg">
 <img style="padding:6px;" width="30px" src="./icons/nodejs.svg">
-<img style="padding:6px;" width="30px" src="./icons/express.svg">
+<img style="padding:6px;" width="30px" src="./icons/expressjs.svg">
 <img style="padding:6px;" width="30px" src="./icons/springboot.svg">
 <img style="padding:6px;" width="30px" src="./icons/tailwind.svg">
 
@@ -84,6 +84,14 @@ From your application to your doorstep, Backdoor has it all covered. A simple, s
 
 ![BACKDOOR](images/BACKDOOR.png)
 
+<!-- PROJECT FOUR -->
+
+### [DOCPEN](https://github.com/SUVAJIT-KARMAKAR/DOCPEN.git)
+
+A online collaborative text editor platform is designed to facilitate seamless and productive teamwork. Whether you're working on a single document or managing multiple projects, our platform provides a robust environment for real-time collaboration and efficient communication with ease..
+
+![DOCPEN](images/DOCPEN.png)
+
 > REST OF THE REPOSITORIES ARE YOURS TO EXPLORE !
 
 ## <div  align="center"> &lt;LET'S WORK TOGETHER/&gt; </div>
@@ -118,11 +126,7 @@ THANK YOU FOR VISITING MY GITHUB PROFILE ! <br>I HOPE YOU FOUND SOMETHING INTERE
 <hr>
 <br>
 
-<!-- <div align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=SUVAJITKARMAKAR&label=VISITED&color=3&icon=2&pretty=true" />
-</a>
-</div> -->
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
