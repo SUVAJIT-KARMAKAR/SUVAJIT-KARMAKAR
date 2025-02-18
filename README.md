@@ -30,79 +30,26 @@ Software Engineer Intern `@CodeWalnut`
 
 ## MY TECHNOLOGY STACK
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
-    <img style="width: 30px;" src="./icons/cpp.svg">
-  </div>
+<table align="center" border="1">
+  <tr>
+    <td align="center"><img src="./icons/cpp.svg" width="44px"><br></td>
+    <td align="center"><img src="./icons/html.svg" width="40px"><br></td>
+    <td align="center"><img src="./icons/css.svg" width="40px"><br></td>
+    <td align="center"><img src="./icons/javascript.svg" width="40px"><br></td>
+    <td align="center"><img src="./icons/typescript.svg" width="40px"><br></td>
+    <td align="center"><img src="./icons/react.svg" width="40px"><br></td>
+    <td align="center"><img src="./icons/nodejs.svg" width="40px"><br></td>
+    <td align="center"><img src="./icons/expressjs.svg" width="40px"><br></td>
+    <td align="center"><img src="./icons/springboot.svg" width="40px"><br></td>
+    <td align="center"><img src="./icons/tailwind.svg" width="40px"><br></td>
+    <td align="center"><img src="./icons/python.svg" width="40px"><br></td>
+    <td align="center"><img src="./icons/fastapi.svg" width="40px"><br></td>
+    <td align="center"><img src="./icons/nextjs.svg" width="40px"><br></td>
+    <td align="center"><img src="./icons/sql.svg" width="40px"><br></td>
+    <td align="center"><img src="./icons/mongodb.svg" width="40px"><br></td>
+  </tr>
+</table>
 
-  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
-    <img style="width: 30px;" src="./icons/html.svg">
-  </div>
-
-  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
-    <img style="width: 30px;" src="./icons/css.svg">
-  </div>
-
-  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
-    <img style="width: 30px;" src="./icons/javascript.svg">
-  </div>
-
-  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; ">
-    <img style="width: 30px;" src="./icons/typescript.svg">
-  </div>
-
-  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
-    <img style="width: 30px;" src="./icons/react.svg">
-  </div>
-
-  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
-    <img style="width: 30px;" src="./icons/nodejs.svg">
-  </div>
-
-  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
-    <img style="width: 30px;" src="./icons/expressjs.svg">
-  </div>
-
-  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
-    <img style="width: 30px;" src="./icons/springboot.svg">
-  </div>
-
-  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
-    <img style="width: 30px;" src="./icons/tailwind.svg">
-  </div>
-
-  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
-    <img style="width: 30px;" src="./icons/PYTHON.svg">
-  </div>
-
-  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
-    <img style="width: 30px;" src="./icons/fastapi.svg">
-  </div>
-
-  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
-    <img style="width: 30px;" src="./icons/NEXTJS.svg">
-  </div>
-
-  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
-    <img style="width: 30px;" src="./icons/SQL.svg">
-  </div>
-
-  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
-    <img style="width: 30px;" src="./icons/mongodb.svg">
-  </div>
-
-  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
-    <img style="width: 30px;" src="./icons/psql.svg">
-  </div>
-
-  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
-    <img style="width: 30px;" src="./icons/docker.svg">
-  </div>
-
-  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
-    <img style="width: 30px;" src="./icons/GIT.svg">
-  </div>
-</div>
 
 ## PROJECTS
 
