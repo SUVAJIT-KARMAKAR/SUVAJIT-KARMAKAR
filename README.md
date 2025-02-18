@@ -44,8 +44,8 @@ Software Engineer Intern `@CodeWalnut`
     <td align="center"><img src="./icons/tailwind.svg" width="40px"><br></td>
     <td align="center"><img src="./icons/python.svg" width="40px"><br></td>
     <td align="center"><img src="./icons/fastapi.svg" width="40px"><br></td>
-    <td align="center"><img src="./icons/nextjs.svg" width="40px"><br></td>
-    <td align="center"><img src="./icons/sql.svg" width="40px"><br></td>
+    <td align="center"><img src="./icons/NEXTJS.svg" width="40px"><br></td>
+    <td align="center"><img src="./icons/SQL.svg" width="40px"><br></td>
     <td align="center"><img src="./icons/mongodb.svg" width="40px"><br></td>
   </tr>
 </table>
