@@ -30,30 +30,78 @@ Software Engineer Intern `@CodeWalnut`
 
 ## MY TECHNOLOGY STACK
 
-<div align="center">
-<img style="padding:6px;" width="30px" src="./icons/cpp.svg">
-<img style="padding:6px;" width="30px" src="./icons/html.svg">
-<img style="padding:6px;" width="30px" src="./icons/css.svg">
-<img style="padding:6px;" width="30px" src="./icons/javascript.svg">
-<img style="padding:6px;" width="30px" src="./icons/typescript.svg">
-<img style="padding:6px;" width="30px" src="./icons/react.svg">
-<img style="padding:6px;" width="30px" src="./icons/nodejs.svg">
-<img style="padding:6px;" width="30px" src="./icons/expressjs.svg">
-<img style="padding:6px;" width="30px" src="./icons/springboot.svg">
-<img style="padding:6px;" width="30px" src="./icons/tailwind.svg">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
+    <img style="width: 30px;" src="./icons/cpp.svg">
+  </div>
 
-<img style="padding:6px;" width="30px" src="./icons/PYTHON.svg">
-<img style="padding:6px;" width="30px" src="./icons/fastapi.svg">
-<img style="padding:6px;" width="30px" src="./icons/nextjs.svg">
-<!-- <img style="padding:6px;" width="30px" src="./icons/NUMPY.svg"> -->
-<!-- <img style="padding:6px;" width="30px" src="./icons/opencv.svg"> -->
-<!-- <img style="padding:6px;" width="30px" src="./icons/RUST.svg"> -->
-<!-- <img style="padding:6px;" width="30px" src="./icons/PANDAS.svg"> -->
-<img style="padding:6px;" width="30px" src="./icons/sql.svg">
-<img style="padding:6px;" width="30px" src="./icons/mongodb.svg">
-<img style="padding:6px;" width="30px" src="./icons/psql.svg">
-<img style="padding:6px;" width="30px" src="./icons/docker.svg">
-<img style="padding:6px;" width="30px" src="./icons/git.svg">
+  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
+    <img style="width: 30px;" src="./icons/html.svg">
+  </div>
+
+  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
+    <img style="width: 30px;" src="./icons/css.svg">
+  </div>
+
+  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
+    <img style="width: 30px;" src="./icons/javascript.svg">
+  </div>
+
+  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; ">
+    <img style="width: 30px;" src="./icons/typescript.svg">
+  </div>
+
+  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
+    <img style="width: 30px;" src="./icons/react.svg">
+  </div>
+
+  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
+    <img style="width: 30px;" src="./icons/nodejs.svg">
+  </div>
+
+  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
+    <img style="width: 30px;" src="./icons/expressjs.svg">
+  </div>
+
+  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
+    <img style="width: 30px;" src="./icons/springboot.svg">
+  </div>
+
+  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
+    <img style="width: 30px;" src="./icons/tailwind.svg">
+  </div>
+
+  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
+    <img style="width: 30px;" src="./icons/PYTHON.svg">
+  </div>
+
+  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
+    <img style="width: 30px;" src="./icons/fastapi.svg">
+  </div>
+
+  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
+    <img style="width: 30px;" src="./icons/NEXTJS.svg">
+  </div>
+
+  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
+    <img style="width: 30px;" src="./icons/SQL.svg">
+  </div>
+
+  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
+    <img style="width: 30px;" src="./icons/mongodb.svg">
+  </div>
+
+  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
+    <img style="width: 30px;" src="./icons/psql.svg">
+  </div>
+
+  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
+    <img style="width: 30px;" src="./icons/docker.svg">
+  </div>
+
+  <div style="padding: 12px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; display: flex; align-items: center; justify-content: center; width: 60px; height: 60px;">
+    <img style="width: 30px;" src="./icons/GIT.svg">
+  </div>
 </div>
 
 ## PROJECTS
@@ -125,8 +173,6 @@ THANK YOU FOR VISITING MY GITHUB PROFILE ! <br>I HOPE YOU FOUND SOMETHING INTERE
 
 <hr>
 <br>
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
