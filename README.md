@@ -127,6 +127,16 @@ THANK YOU FOR VISITING MY GITHUB PROFILE ! <br>I HOPE YOU FOUND SOMETHING INTERE
 <hr>
 <br>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/SUVAJIT-KARMAKAR/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/SUVAJIT-KARMAKAR/SUVAJIT-KARMAKAR/output/snake.svg" alt="Snake animation" />
+
+###
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
