@@ -20,13 +20,19 @@ KEEN AND SEEKING OPPORTUNITIES TO CONTRIBUTE AND GROW IN A DYNAMIC ENVIRONMENT.
 - 5+ YEARS OF ACADEMIC EXPERIENCE IN FULL STACK DEVELOPMENT AND COUNTING
 
 ## INTERNSHIP
+
 Software Engineer Intern `@CodeWalnut`
 
 ## VISIT MY PORTFOLIO WEBSITE
 
 <div align="center">
-<a href="https://suvajit-karmakar.vercel.app/"><img src="./logo/suvajitkarmakar_portfolio.png"></a>
+<a href="https://suvajit-karmakar.vercel.app/"><img src="./images/__portfolio.png"></a>
 </div>
+
+<br>
+
+## CONTRIBUTION GRAPH
+[![GITCONTRIBUTION-GRAPH](https://github-readme-activity-graph.vercel.app/graph?username=SUVAJIT-KARMAKAR&bg_color=242324&color=39c069&line=44eea4&point=3528e6&area=true&hide_border=true)]()
 
 ## MY TECHNOLOGY STACK
 
@@ -50,6 +56,7 @@ Software Engineer Intern `@CodeWalnut`
 </table>
 
 ## <div  align="left"> LET'S WORK TOGETHER </div>
+
 <table align="center" border="1">
 <tr>
   <td align="center">  
