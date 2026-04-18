@@ -1,4 +1,4 @@
-<h1 align="center"><samp>SUVAJIT KARMAKAR</samp></h1>
+<h1 align="center"><samp><span style="font-size: 1em; color: #44823b;">SUVAJIT KARMAKAR</span></samp></h1>
 
 <p align="center">
   <samp>&ldquo; quietly building things on the internet &rdquo;</samp>
